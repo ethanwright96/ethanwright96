@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on data science projects on health and sports science.
 - ✨ I am specifically interested in the science of power: strength applied at speed in throwing athletes.
 
-![alt](rich_block_javelin.png)
+  ![alt](rich_block_javelin.png)
 
 - 📫 How to reach me: ethan_wright@alumni.brown.edu or ethan@harvestintelligence.net.
 
