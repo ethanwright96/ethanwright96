@@ -1,8 +1,12 @@
 - 👋 Hi, I’m @ethanwright96
-- 👀 I’m interested in health & sports science analytics.
-- 🌱 I’m currently learning data analytics with Python. 
-- 💞️ I’m looking to collaborate on data science projects on health and sports science.
-- ✨ I am specifically interested in the science of power: strength applied at speed in throwing athletes.
+- 🫁 I’m interested in neuroscience and health analytics.
+
+  ![alt](brain.png)
+  
+- 🌱 I’m currently learning data science methods with Python, SQL, & R. 
+- 🧠 I aspire to contribute to science in robust business environments that has palpible positive social impacts. 
+- 💞️ I’m looking to collaborate on data science projects involving health-related data as well as resource optimization problems.
+- 💪 Outside of work, I am a javelin thrower! And I am fascinated by muscular power: "strength applied at speed".
 
   ![alt](rich_block_javelin.png)
 
