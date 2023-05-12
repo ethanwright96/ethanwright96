@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ethanwright96
 - 🫁 I’m interested in neuroscience and health analytics.
 
-  ![alt](brain.png)
+  ![alt](brain.jpg)
   
 - 🌱 I’m currently learning data science methods with Python, SQL, & R. 
 - 🧠 I aspire to contribute to science in robust business environments that has palpible positive social impacts. 
