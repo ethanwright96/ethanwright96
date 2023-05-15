@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @ethanwright96
 - 🧠 I’m interested in neuroscience and health analytics.
-
-  ![alt](brain.jpg)
-  
 - 🌱 I’m currently learning data science methods with Python, SQL, & R. 
 - 🔬 I aspire to contribute to science in robust business environments that has palpible positive social impacts. 
 - 💞️ I’m looking to collaborate on data science projects involving health-related data as well as resource optimization problems.
+
+  ![alt](brain.jpg)
+  
 - 💪 Outside of work, I am a javelin thrower! And I am fascinated by muscular power: "strength applied at speed".
   
   ![alt](https://github.com/ethanwright96/ethanwright96/blob/main/Ethan.JPEG)
