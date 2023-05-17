@@ -6,10 +6,7 @@
 
   ![alt](brain.jpg)
   
-- 💪 Outside of work, I am a javelin thrower! And I am fascinated by muscular power: "strength applied at speed".
-  
-  ![alt](https://github.com/ethanwright96/ethanwright96/blob/main/Ethan.JPEG)
-
+- 💪 Outside of work, I throw the javelin! And I am fascinated by muscular power: "strength applied at speed".
 - 📫 How to reach me: ethan_wright@alumni.brown.edu or ethan@harvestintelligence.net.
 
 <!---
