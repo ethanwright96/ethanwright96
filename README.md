@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ethanwright96
-- 🧠 I’m interested in neuroscience and health analytics.
+- 🧠 I’m interested in decision science, health & neuroscience analytics.
 - 🌱 I’m currently learning data science methods with Python, SQL, & R. 
-- 🔬 I aspire to contribute to science in robust business environments that has palpible positive social impacts. 
-- 💞️ I’m looking to collaborate on data science projects involving health-related data as well as resource optimization problems.
+- 🔬 I aspire to contribute to science in robust business environments with positive social impact. 
+- 💞️ I’m looking to network with experienced data professionals and connect with other junior data scientists to cocreate projects.
 
   ![alt](brain.jpg)
   
