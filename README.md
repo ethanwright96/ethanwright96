@@ -4,7 +4,7 @@
 - 🔬 I aspire to contribute to science in robust business environments with strong core values. 
 - 💞️ I’m looking to network with other people learning data science collaborate and hone our skills.
 
-  ![alt](brain.jpg)
+  ![alt](https://github.com/ethanwright96/ethanwright96/blob/main/my_skillset_radar_chart.png)
   
 - 💪 Outside of work, I throw the javelin! And I am fascinated by muscular power: "strength applied at speed".
 - 📫 How to reach me: ethan_wright@alumni.brown.edu or ethan@harvestintelligence.net.
