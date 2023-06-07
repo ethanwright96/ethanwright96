@@ -6,7 +6,7 @@
 
   ![alt](https://github.com/ethanwright96/ethanwright96/blob/main/my_skillset_radar_chart.png)
   
-- 💪 Outside of work, I throw the javelin! And I am fascinated by muscular power: "strength applied at speed".
+- 💪 Outside of work, I throw the javelin!
 - 📫 How to reach me: ethan_wright@alumni.brown.edu or ethan@harvestintelligence.net.
 
 <!---
