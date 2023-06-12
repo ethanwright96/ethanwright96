@@ -2,7 +2,7 @@
 - 🧠 I’m interested in decision science and data analytics.
 - 🌱 I’m currently studying data analytics, linear algebra, probability, and Machine Learning with Python. 
 - 🔬 I aspire to contribute to science in robust business environments with strong core values. 
-- 💞️ I’m looking to network with other people learning data science collaborate and hone our skills.
+- 💞️ I’m looking to network with other people learning data science collaborate and develop new skills.
 
   ![alt](https://github.com/ethanwright96/ethanwright96/blob/main/my_skillset_radar_chart.png)
   
