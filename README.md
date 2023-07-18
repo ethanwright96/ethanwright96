@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ethanwright96 and I'm a data scientist.
+- 👋 Hi, I’m @ethanwright96 and I'm a data scientist & continuous improvement specialist.
 - 🧠 I’m passionate about decision science and predictive analytics.
 - 🖥️ I program in Python on a daily basis and I'm an extraordinarily efficient & deep learner.
 - 🌱 I’m currently studying data analytics & visualization, linear algebra, probability, and machine learning. 
