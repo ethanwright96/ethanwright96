@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @ethanwright96 and I'm a data scientist & continuous improvement specialist.
-- 🧠 I’m passionate about decision science and predictive analytics.
-- 🖥️ I program in Python on a daily basis and I'm an extraordinarily efficient & deep learner.
+- 🧠 I am passionate about decision science and operational excellence.
+- 🖥️ I program in Python on a daily basis and I'm an efficient & deep learner.
 - 🌱 I’m currently studying data analytics & visualization, linear algebra, probability, and machine learning. 
-- 🔬 My mission is to conduct high-quality data science in robust and diverse business environments with strong core values.
+- 🔬 My mission is to contribute to science & technology in robust and diverse business environments with strong core values.
 - 📫 How to reach me: ethan_wright@alumni.brown.edu or ethan@harvestintelligence.net. 
 
-  ![alt](https://github.com/ethanwright96/ethanwright96/blob/main/my_skillset_radar_chart.png)
+  ![alt](https://github.com/ethanwright96/ethanwright96/blob/main/skill2.0.png)
 
 
 <!---
