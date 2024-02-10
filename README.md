@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ethanwright96 and I'm a continuous improvement specialist @ Pfizer Global Supply.
-- 🧠 I hold a BA in Science, Technology & Society from Brown University, have professional certificates in Lean & Six Sigma, data analysis, science & visualization, and on-going professional development in Project Management.
-- 🥅 My goals are to continue to develop tacit knowledge in biotechnology, become fluent in bioprocess informatics, and develop leadership and project management skills necessary to effectively contribute to complex and cross-functional process improvement projects.
+- 🧠 I hold a BA in Science, Technology & Society from Brown University, have professional certificates in Lean & Six Sigma, data analysis, science & visualization, and on-going professional development in project management.
+- 🥅 My goals are to continue to develop tacit knowledge in biotechnology, become fluent in bioprocess informatics, and develop the leadership and project management skills necessary to effectively contribute to complex and cross-functional process improvement projects.
 
   ![alt](https://github.com/ethanwright96/ethanwright96/blob/main/skill2.0.png)
 
