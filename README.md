@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @ethanwright96 and I'm a data scientist & continuous improvement specialist.
-- 🧠 I am passionate about decision science and operational excellence.
-- 🖥️ I program in Python on a daily basis and I'm an efficient & deep learner.
-- 🌱 I’m currently studying data analytics & visualization, linear algebra, probability, and machine learning. 
-- 🔬 My mission is to contribute to science & technology in robust and diverse business environments with strong core values.
-- 📫 How to reach me: ethan_wright@alumni.brown.edu or ethan@harvestintelligence.net. 
+- 👋 Hi, I’m @ethanwright96 and I'm a continuous improvement specialist @ Pfizer Global Supply.
+- 🧠 I hold a BA in Science, Technology & Society from Brown University, have professional certificates in Lean & Six Sigma, data analysis, science & visualization, and on-going professional development in Project Management.
+- 🥅 My goals are to continue to develop tacit knowledge in biotechnology, become fluent in bioprocess informatics, and develop leadership and project management skills necessary to effectively contribute to complex and cross-functional process improvement projects.
 
   ![alt](https://github.com/ethanwright96/ethanwright96/blob/main/skill2.0.png)
 
